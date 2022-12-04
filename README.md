@@ -8,4 +8,8 @@ Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho
 - [DevPira 2021](https://youtu.be/_mj5KjJXSpQ)
 
 ## Apresentações
-- [EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf) 
+- [EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
+- [Arquitetura Orientada a Mensagens com AWS IoT Core](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
+- [Code Review como Garantia de Qualidade em Projetos Ágeis](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
+
+
