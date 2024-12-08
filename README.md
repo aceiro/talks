@@ -4,16 +4,19 @@
 Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho apresentado em alguns eventos, comunidades e treinamentos.
 
 ## Apresentações
-- [Aplicando Domínios e Capacidades de Negócios para Modelar o Futuro do Mercado de Fidelidade DevPira (2024)](https://github.com/aceiro/talks/blob/main/talks/DevPira-Domi%CC%81nios-Piracicaba-2024.pdf)
-- [Be up-to-date: Como a Agilidade de Aprendizagem pode Ajudar na  Evolução e Carreira Frontin (2024)](https://github.com/aceiro/talks/blob/main/talks/Frontin-Carreira-Campinas-SP-2024.pdf)
-- [EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios DevPira (2022)](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
-- [Arquitetura Orientada a Mensagens com AWS IoT Core DevPira (2021)](https://github.com/aceiro/talks/blob/main/talks/apresentacao-dev-pira-2021.pdf)
-- [Code Review como Garantia de Qualidade em Projetos Ágeis - SimTIC (2020)](https://github.com/aceiro/talks/blob/main/talks/apresentacao-qualidade-software-code-review-simtic-2020.pdf)
-- [Atividades de Teste e Cobertura de Código - Curso Unesp]()
+- [DevPira (2024) Aplicando Domínios e Capacidades de Negócios para Modelar o Futuro do Mercado de Fidelidade](https://github.com/aceiro/talks/blob/main/talks/DevPira-Domi%CC%81nios-Piracicaba-2024.pdf)
+- [Frontin (2024) Be up-to-date: Como a Agilidade de Aprendizagem pode Ajudar na  Evolução e Carreira Frontin](https://github.com/aceiro/talks/blob/main/talks/Frontin-Carreira-Campinas-SP-2024.pdf)
+- [DevPira (2022) EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
+- [DevPira (2021) Arquitetura Orientada a Mensagens com AWS IoT Core DevPira](https://github.com/aceiro/talks/blob/main/talks/apresentacao-dev-pira-2021.pdf)
+- [SimTIC (2020) Code Review como Garantia de Qualidade em Projetos Ágeis](https://github.com/aceiro/talks/blob/main/talks/apresentacao-qualidade-software-code-review-simtic-2020.pdf)
+- [Unesp (2013) Cloud Computing & Google App Engine (2013)](https://prezi.com/yimrpvg9yylr/cloud-computing/)
+- [Unesp (2012) Curso de Linguagem de programação Comercial](https://prezi.com/yrntlxbrb-d2/pacotes-javalang-javautil-javaio-e-javanet/)
+- [Unesp (2012) Engenharia de Software para Sistemas Embarcados: Arquitetura, Padrões e Linguagem de Modelagem UML/SysML](https://prezi.com/hmvfyhmqrdu0/engenharia-de-software-para-sistemas-embarcados-arquitetura-padroes-e-linguagem-de-modelagem-umlsysml/)
+- [Unesp (2012) Curso sobre Atividades de Teste e Cobertura de Código](https://github.com/aceiro/talks/blob/main/talks/curso-unesp-2012.pdf)
 
 ## Comunidades, Eventos e Cursos
 - [DevPira 2024](https://www.linkedin.com/posts/devpira_devpirafestival-capivaracoders-tecnologia-activity-7269761601237360640-XHdz?utm_source=share&utm_medium=member_desktop)
-- [Frontin Campinas](https://www.frontincampinas.com.br/)
+- [Frontin Campinas 2024](https://www.frontincampinas.com.br/)
 - [DevPira 2022](https://www.linkedin.com/posts/devpira_cronograma-devpira-2022-activity-7003863259594289152-9XUL?utm_source=share&utm_medium=member_desktop)
 - [DevPira 2021](https://youtu.be/_mj5KjJXSpQ)
 - [SimTic 2020](https://doity.com.br/simtic2020)
