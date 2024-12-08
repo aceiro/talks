@@ -16,6 +16,7 @@ Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho
 - [Unesp (2012) Engenharia de Software para Sistemas Embarcados: Arquitetura, Padrões e Linguagem de Modelagem UML/SysML](https://prezi.com/hmvfyhmqrdu0/engenharia-de-software-para-sistemas-embarcados-arquitetura-padroes-e-linguagem-de-modelagem-umlsysml/)
 - [Unesp (2012) Curso sobre Atividades de Teste e Cobertura de Código](https://github.com/aceiro/talks/blob/main/talks/curso-unesp-2012.pdf)
 - [UFSCar (2011) CUDA - Multiplicação de Vetores e Matrizes](https://github.com/aceiro/talks/blob/main/talks/apresentacao-cuda-2011-ufscar.pdf)
+- [MACK (2008) Defesa Mestrado - Desenvolvimento de um WebLab para Estudo e Caracterização de Sistemas WDM](https://github.com/aceiro/talks/blob/main/talks/defesa_mestrado_2008.pdf)
 
 ## Comunidades, Eventos e Cursos
 - [DevPira 2024](https://www.linkedin.com/posts/devpira_devpirafestival-capivaracoders-tecnologia-activity-7269761601237360640-XHdz?utm_source=share&utm_medium=member_desktop)
