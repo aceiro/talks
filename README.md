@@ -9,6 +9,7 @@ Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho
 - [DevPira (2022) EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
 - [DevPira (2021) Arquitetura Orientada a Mensagens com AWS IoT Core DevPira](https://github.com/aceiro/talks/blob/main/talks/apresentacao-dev-pira-2021.pdf)
 - [SimTIC (2020) Code Review como Garantia de Qualidade em Projetos Ágeis](https://github.com/aceiro/talks/blob/main/talks/apresentacao-qualidade-software-code-review-simtic-2020.pdf)
+- [UFSCar (2024) Defesa Doutorado - RTSS: Uma Família de Técnicas de Leitura para Suporte à Inspeção de Modelos SysML e Simulink](https://github.com/aceiro/talks/blob/main/talks/EAA_DEFESA-FINAL-1.pdf)
 - [ICEIS (2014) Verification and Validation Activities for Embedded Systems: A Feasibility Study on a Reading Technique for SysML Models
 ](https://github.com/aceiro/talks/blob/main/talks/EAA_ICEIS_2014.pdf)
 - [Unesp (2013) Cloud Computing & Google App Engine](https://prezi.com/yimrpvg9yylr/cloud-computing/)
