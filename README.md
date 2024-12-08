@@ -16,5 +16,6 @@ Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho
 - [DevPira 2022](https://www.linkedin.com/posts/devpira_cronograma-devpira-2022-activity-7003863259594289152-9XUL?utm_source=share&utm_medium=member_desktop)
 - [DevPira 2021](https://youtu.be/_mj5KjJXSpQ)
 - [SimTic 2020](https://doity.com.br/simtic2020)
+- [Congresso Nacional de Ambientes Hipermídia para Aprendizagem 2010](https://www.fho.edu.br/noticia/260)
 
 
