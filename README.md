@@ -9,7 +9,7 @@ Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho
 - [DevPira (2022) EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
 - [DevPira (2021) Arquitetura Orientada a Mensagens com AWS IoT Core DevPira](https://github.com/aceiro/talks/blob/main/talks/apresentacao-dev-pira-2021.pdf)
 - [SimTIC (2020) Code Review como Garantia de Qualidade em Projetos Ágeis](https://github.com/aceiro/talks/blob/main/talks/apresentacao-qualidade-software-code-review-simtic-2020.pdf)
-- [Unesp (2013) Cloud Computing & Google App Engine (2013)](https://prezi.com/yimrpvg9yylr/cloud-computing/)
+- [Unesp (2013) Cloud Computing & Google App Engine](https://prezi.com/yimrpvg9yylr/cloud-computing/)
 - [Unesp (2012) Curso de Linguagem de programação Comercial](https://prezi.com/yrntlxbrb-d2/pacotes-javalang-javautil-javaio-e-javanet/)
 - [Unesp (2012) Engenharia de Software para Sistemas Embarcados: Arquitetura, Padrões e Linguagem de Modelagem UML/SysML](https://prezi.com/hmvfyhmqrdu0/engenharia-de-software-para-sistemas-embarcados-arquitetura-padroes-e-linguagem-de-modelagem-umlsysml/)
 - [Unesp (2012) Curso sobre Atividades de Teste e Cobertura de Código](https://github.com/aceiro/talks/blob/main/talks/curso-unesp-2012.pdf)
