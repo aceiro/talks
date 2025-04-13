@@ -4,7 +4,7 @@
 Aqui vocês podem acessar as principais Talks (palestras) que recentemente tenho apresentado em alguns eventos, comunidades e treinamentos.
 
 ## Apresentações
-- [ALLOS (2025) Desbloqueando Fluxos de Valor com Plataformas e Team Topologies](https://github.com/aceiro/talks/blob/main/talks/DevPira-Domi%CC%81nios-Piracicaba-2024.pdf)
+- [ALLOS (2025) Desbloqueando Fluxos de Valor com Plataformas e Team Topologies](https://github.com/aceiro/talks/blob/ccc4e93a54338fb6df81a66b948f33ca5b0a209c/talks/Desbloqueando%20Fluxos%20de%20Valor%20com%20%20Plataformas%20e%20Team%20Topologies.pdf)
 - [DevPira (2024) Aplicando Domínios e Capacidades de Negócios para Modelar o Futuro do Mercado de Fidelidade](https://github.com/aceiro/talks/blob/main/talks/DevPira-Domi%CC%81nios-Piracicaba-2024.pdf)
 - [Frontin (2024) Be up-to-date: Como a Agilidade de Aprendizagem pode Ajudar na  Evolução e Carreira Frontin](https://github.com/aceiro/talks/blob/main/talks/Frontin-Carreira-Campinas-SP-2024.pdf)
 - [DevPira (2022) EventStorming: Uma abordagem sociotécnica para mapeamentos de Domínios](https://github.com/aceiro/talks/blob/main/talks/EventStormin-DevPira_03_12_2022.pdf)
